@@ -1,4 +1,4 @@
-# Human_In_The_Loop_Sales_Team
+# Human In The Loop Sales Team
 
 An end-to-end AI-powered sales outreach workflow built with n8n, designed to generate, review, refine, and approve personalized sales emails using a Human-in-the-Loop approach — all without writing a single line of code.
 
