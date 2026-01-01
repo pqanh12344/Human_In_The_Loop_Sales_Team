@@ -31,7 +31,7 @@ This project focuses on workflow architecture, controllability, and real-world u
 
 ---
 
-### Demo Slack
+### Demo
 ![Logo](Human_In_The_Loop_Sales_Team_n8n.gif)
 
 ---
