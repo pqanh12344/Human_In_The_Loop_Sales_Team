@@ -7,3 +7,13 @@ This project focuses on workflow architecture, controllability, and real-world u
 ---
 
 ## 🚀 Key Features
+
+- 🤖 AI Sales Agent for personalized email generation
+- 👤 Human review & feedback loop for quality control
+- ✍️ AI Editor Agent that iterates based on human feedback
+- 🔁 Approval loop until email meets required standards
+- 📧 Ready-to-send, fully approved outreach emails
+- 🧩 No-code implementation using n8n only
+
+
+
