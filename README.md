@@ -14,6 +14,24 @@ This project focuses on workflow architecture, controllability, and real-world u
 - 🔁 Approval loop until email meets required standards
 - 📧 Ready-to-send, fully approved outreach emails
 - 🧩 No-code implementation using n8n only
+- 
+---
 
+## 🧠 Workflow Overview
 
+![n8n workflow](n8n-automation.png)
 
+---
+
+### Step-by-step workflow
+- **A salesperson creates a personalized email**
+- **Someone reviews and provides feedback**
+- **A proofreader makes adjustments based on the feedback**
+- **This loop continues until the email is approved and ready to send**
+
+---
+
+## 👤 Author
+
+**Phan Quoc Anh**  
+Automation / Data / AI Engineer  
