@@ -19,7 +19,7 @@ This project focuses on workflow architecture, controllability, and real-world u
 
 ## 🧠 Workflow Overview
 
-![n8n workflow](n8n-automation.png)
+![n8n workflow](img.png)
 
 ---
 
